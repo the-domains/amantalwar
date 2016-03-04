@@ -1,6 +1,6 @@
 name: AmanTalwar
 favicon: null
-layout_spectrum: 0.4301373865455389
+layout_spectrum: 0.7493
 typography_spectrum: 0.8675186501350254
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.09242167952470481
+  brandStrength: 0.1875
   lightness: 0.7991338884457946
   saturation: 0.5885670196730644
   rhythmicContrast: 0.016453481512144208
