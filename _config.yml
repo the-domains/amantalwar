@@ -1,0 +1,28 @@
+name: AmanTalwar
+favicon: null
+layout_spectrum: 0.4301373865455389
+typography_spectrum: 0.8675186501350254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09242167952470481
+  lightness: 0.7991338884457946
+  saturation: 0.5885670196730644
+  rhythmicContrast: 0.016453481512144208
+purpose: []
